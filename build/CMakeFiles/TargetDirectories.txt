@@ -1,0 +1,3 @@
+/home/kala/VisualSLAM/build/CMakeFiles/ToStart.dir
+/home/kala/VisualSLAM/build/CMakeFiles/edit_cache.dir
+/home/kala/VisualSLAM/build/CMakeFiles/rebuild_cache.dir

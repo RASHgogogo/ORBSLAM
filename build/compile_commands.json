@@ -1,0 +1,128 @@
+[
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/test.cc.o -c /home/kala/VisualSLAM/test.cc",
+  "file": "/home/kala/VisualSLAM/test.cc",
+  "output": "CMakeFiles/ToStart.dir/test.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/VisualSensor/ImgPreProcess.cc.o -c /home/kala/VisualSLAM/src/VisualSensor/ImgPreProcess.cc",
+  "file": "/home/kala/VisualSLAM/src/VisualSensor/ImgPreProcess.cc",
+  "output": "CMakeFiles/ToStart.dir/src/VisualSensor/ImgPreProcess.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/System.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/System.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/System.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/System.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Tracking.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Tracking.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Tracking.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Tracking.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/LocalMapping.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/LocalMapping.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/LocalMapping.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/LocalMapping.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/LoopClosing.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/LoopClosing.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/LoopClosing.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/LoopClosing.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/ORBextractor.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/ORBextractor.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/ORBextractor.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/ORBextractor.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/ORBmatcher.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/ORBmatcher.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/ORBmatcher.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/ORBmatcher.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/FrameDrawer.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/FrameDrawer.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/FrameDrawer.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/FrameDrawer.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Converter.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Converter.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Converter.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Converter.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/MapPoint.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/MapPoint.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/MapPoint.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/MapPoint.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/KeyFrame.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/KeyFrame.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/KeyFrame.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/KeyFrame.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Map.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Map.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Map.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Map.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/MapDrawer.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/MapDrawer.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/MapDrawer.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/MapDrawer.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Optimizer.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Optimizer.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Optimizer.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Optimizer.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/PnPsolver.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/PnPsolver.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/PnPsolver.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/PnPsolver.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Frame.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Frame.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Frame.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Frame.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/KeyFrameDatabase.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/KeyFrameDatabase.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/KeyFrameDatabase.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/KeyFrameDatabase.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Sim3Solver.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Sim3Solver.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Sim3Solver.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Sim3Solver.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Initializer.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Initializer.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Initializer.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Initializer.cc.o"
+},
+{
+  "directory": "/home/kala/VisualSLAM/build",
+  "command": "/usr/bin/g++ -DHAVE_EIGEN -DHAVE_GLEW -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/kala/VisualSLAM -I/home/kala/VisualSLAM/include/ORBSLAM -I/home/kala/VisualSLAM/include/VisualSensor -isystem /usr/local/include/opencv -isystem /usr/include/eigen3 -g -o CMakeFiles/ToStart.dir/src/ORBSLAM/Viewer.cc.o -c /home/kala/VisualSLAM/src/ORBSLAM/Viewer.cc",
+  "file": "/home/kala/VisualSLAM/src/ORBSLAM/Viewer.cc",
+  "output": "CMakeFiles/ToStart.dir/src/ORBSLAM/Viewer.cc.o"
+}
+]
